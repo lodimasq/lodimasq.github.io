@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "FTB Revelation (v3.2.0)",
+      "name" : "revelations",
+      "version" : "2020-04-24-22-25-22",
+      "location" : "revelations.json",
+      "priority" : 0
+    }
+  ]
+}
