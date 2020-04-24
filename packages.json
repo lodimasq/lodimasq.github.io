@@ -2,10 +2,10 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "FTB Revelation (v3.2.0)",
-      "name" : "revelations",
-      "version" : "2020-04-24-22-25-22",
-      "location" : "revelations.json",
+      "title" : "Quarantine Craft",
+      "name" : "qcraft",
+      "version" : "0.2",
+      "location" : "qcraft.json",
       "priority" : 0
     }
   ]
