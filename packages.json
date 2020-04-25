@@ -4,7 +4,7 @@
     {
       "title" : "Quarantine Craft",
       "name" : "qcraft",
-      "version" : "1.0.3",
+      "version" : "1.0.4",
       "location" : "qcraft.json",
       "priority" : 0
     }
