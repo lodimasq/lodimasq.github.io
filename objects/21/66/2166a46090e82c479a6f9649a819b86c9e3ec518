@@ -1,0 +1,14 @@
+{
+  "curseProjectID": "",
+  "promoCode": "",
+  "creeperhostEnabled": false,
+  "mpMenuEnabled": false,
+  "mainMenuEnabled": false,
+  "serverHostButtonImage": false,
+  "serverHostMenuImage": false,
+  "sivIntegration": true,
+  "serverListEnabled": true,
+  "chatEnabled": true,
+  "autoMT": true,
+  "pregenDiameter": 120
+}
