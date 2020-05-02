@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Quarantine Craft",
+      "name" : "qcraft",
+      "version" : "2020-05-02-18-47-23",
+      "location" : "qcraft.json",
+      "priority" : 0
+    }
+  ]
+}
